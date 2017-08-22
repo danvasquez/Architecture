@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<archimate:model xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:archimate="http://www.archimatetool.com/archimate" name="Rocket Mortgage" id="b0c7ab3a-2dfb-4ad8-b46a-4e8978175a3d" version="4.0.0">
+  <folder name="Strategy" id="77c2d53f-bde8-4609-ad64-3dabad74e556" type="strategy"/>
+  <folder name="Business" id="9482be79-cde6-4fd4-ad09-6b486cc9ea13" type="business"/>
+  <folder name="Application" id="c7bbf13a-3d47-4c95-baac-1eecc57b376e" type="application"/>
+  <folder name="Technology &amp; Physical" id="0cd038b7-6f2f-4e74-8a1c-0873852a8135" type="technology"/>
+  <folder name="Motivation" id="e7faf00b-dcaf-4a1f-98df-34c4959a17d2" type="motivation"/>
+  <folder name="Implementation &amp; Migration" id="4671354c-9473-42db-b767-76e7dca54ee7" type="implementation_migration"/>
+  <folder name="Other" id="68f00368-3b1e-47f3-803b-d3e5c8ca4df3" type="other"/>
+  <folder name="Relations" id="c23f047d-831f-4d36-bd5b-1e3cc69521ec" type="relations"/>
+  <folder name="Views" id="3467031a-961c-4767-8039-4e31c3065034" type="diagrams">
+    <element xsi:type="archimate:ArchimateDiagramModel" name="Default View" id="2a498c08-0070-49c5-b39d-51d82d035422"/>
+  </folder>
+</archimate:model>
